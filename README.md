@@ -1,2 +1,4 @@
 # Research-of-the-labor-market
-Product-focused and statistical research on the job market for analysts
+Продуктовое и статистическое исследование рынка труда аналитиков на основе датасета вакансий с hh.  
+Условия находятся в `Tasks requirements`  
+Обработка датасета в `Solution/DS_Analysis.ipynb` и анализ полученных данных в `Solution/DS_Analysis.pdf`  
